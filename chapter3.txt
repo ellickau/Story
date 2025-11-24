@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-It was the spring of hope,it was the winter of despair. @@ hello hello hello
-=======
 It was the spring of hope, it was the winter of desparate.
->>>>>>> 7f398cf (Complete chapter2 and chapter3 and modified chapter1)
