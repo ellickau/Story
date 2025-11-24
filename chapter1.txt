@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the best of times, it was the worst of times. ok hello hello hello 
+=======
+Hello World !!
+>>>>>>> 7f398cf (Complete chapter2 and chapter3 and modified chapter1)
